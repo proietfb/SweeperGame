@@ -25,4 +25,4 @@ Commands:
 	- F4: on/off vehicle lights
 	- F5: show/hide shadows
 	- F6: enable/disable/increment (from 0x to 16x) anti-aliasing
-  - TAB: show/hide menu
+  	- TAB: show/hide menu
